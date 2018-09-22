@@ -1,0 +1,47 @@
+Terraria has 3 official biome mimics: Corrput, Crimson and hallow mimic.
+But there's a hidden biome mimic, the jungle mimic. In vanilla this mimic
+cant be spwaned and it doesnt has any drop, and the question is: What this mod
+does?, Exactly, this mod adds loot and spawn to the jungle mimic.
+
+
+This mimic spawns 
+different that another biome mimics, this mimic spawns
+killing any underworld jungle enemy (incluiding mods enemies) with 1 to 
+750 chance.
+
+This mimic drops the next stuff:
+
+- Thorn Hook (yes, the same that drops plantera)
+
+- Feral Lance (melee)
+
+- Wildubra Venum (magic)
+
+- Tortoise Hunter (ranged)
+
+- Leaf Wings (The same that sells the witch doctor)
+
+- Jungle stuff (spores, stingers and vines)
+
+- Life Fruit (1/10 chance)
+
+To summon the mimic manually, you need to craft the moosy key.
+To craft the key you need:
+
+- 3 souls of light
+
+- 3 souls of night
+
+- 3 jungle  spores
+
+- 1 vine
+
+- 3 stingers
+
+Pd1: To craft the key you need a Work Bench
+Pd2: Idk how the biome mimics summon system works, therefore
+     (for now) this mimic summons like a normal boss
+
+If you like this mod, dont forget to share it with your friends!
+
+Mod by RecPlus
