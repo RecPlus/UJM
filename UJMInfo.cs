@@ -22,6 +22,8 @@ namespace UJM
 				 Item.NewItem((int)npc.position.X, (int)npc.position.Y, npc.width, npc.height, 209, Main.rand.Next(7, 15));
 				 Item.NewItem((int)npc.position.X, (int)npc.position.Y, npc.width, npc.height, 331, Main.rand.Next(10, 20));
 				 
+				 if (Main.player[Main.myPlayer].ZoneRockLayerHeight)
+			if (Main.player[Main.myPlayer].ZoneJungle)
 				 if(Main.rand.Next(10) < 1)
 				{
                     Item.NewItem((int)npc.position.X, (int)npc.position.Y, npc.width, npc.height, 1291);

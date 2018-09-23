@@ -1,8 +1,11 @@
-Terraria has 3 official biome mimics: Corrput, Crimson and hallow mimic.
-But there's a hidden biome mimic, the jungle mimic. In vanilla this mimic
-cant be spwaned and it doesnt has any drop, and the question is: What this mod
-does?, Exactly, this mod adds loot and spawn to the jungle mimic.
+------------------------------------------
+[c/FACC2E:1.0.2 Update Changes]
 
+- Life fruit only will be dropped in underground jungle
+
+------------------------------------------
+
+Terraria has 3 official biome mimics: Corrput, Crimson and hallow mimic. But there's a hidden biome mimic, the jungle mimic. In vanilla this mimic cant be spwaned and it doesnt has any drop, and the question is: What this mod does?, Exactly, this mod adds loot and spawn to the jungle mimic.
 
 This mimic spawns 
 different that another biome mimics, this mimic spawns
@@ -42,6 +45,6 @@ Pd1: To craft the key you need a Work Bench
 Pd2: Idk how the biome mimics summon system works, therefore
      (for now) this mimic summons like a normal boss
 
-If you like this mod, dont forget to share it with your friends!
+Any question contact me in discord (Dok#9396) and if you like this mod, dont forget to share it with your friends!
 
 Mod by RecPlus
